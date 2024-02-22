@@ -1,5 +1,6 @@
 # dslforum-xmlbeans
-XMLBeans generated code for CWMP protocol parsing and DataModel code generation programs. A copy of xmlbeans version 5.2.0 is included in this repository.
+Shell scripts use XMLBeans to generate Java libraries for CWMP protocol parsing and DataModel code generation programs. 
+The inputs are schema files defined by the DSL Broadband Forum for TR-069 and TR-369.
 
 ## CWMP datamodel generator 
 Apache XMLBeans is used to generate the Java library used by the code generators for the CWMPc client and the USP agents from the cwmp-datamodel-1-x.xsd schemea.
