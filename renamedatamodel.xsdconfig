@@ -1,0 +1,9 @@
+<xb:config xmlns:xb="http://xml.apache.org/xmlbeans/2004/02/xbean/config"
+           xmlns:uri="urn:broadband-forum-org:cwmp:datamodel-1-9">
+
+  <xb:namespace uri="urn:broadband-forum-org:cwmp:datamodel-1-9">
+    <xb:package>cwmpdatamodel</xb:package>
+  </xb:namespace>
+
+</xb:config>
+
